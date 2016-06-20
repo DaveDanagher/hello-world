@@ -1,2 +1,6 @@
 # hello-world
-first repository
+This is a test of the Git-Hub Repository. 
+Line 2
+Line 3
+
+
